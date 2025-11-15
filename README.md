@@ -14,4 +14,4 @@
   
 ## Контакты
 Почта: vladislav-mironov23@yandex.ru   
-[Telegram] ([https://t.me/miramio](https://t.me/capnojo)) 
+[Telegram] (https://t.me/capnojo)
